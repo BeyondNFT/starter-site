@@ -1,0 +1,21 @@
+{
+  "name": "truffle",
+  "version": "1.0.0",
+  "description": "We are using Truffle here, if you don't have in installed, `npm install -g truffle` You also might want to read [truffle's guide](https://www.trufflesuite.com/docs/truffle/overview) first.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@openzeppelin/contracts": "^3.2.0",
+    "@truffle/hdwallet-provider": "^1.1.1",
+    "dotenv": "^8.2.0",
+    "truffle-plugin-verify": "^0.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
