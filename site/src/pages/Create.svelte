@@ -310,6 +310,7 @@
     </form>
   </div>
   <div class="render">
+    <h2>Preview</h2>
     <div bind:this={view} />
   </div>
 </section>

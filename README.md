@@ -7,6 +7,10 @@ This is the "starter" project for you to be able to:
 - Compile and deploy ERC721 contracts that works well with InteractiveNFT (using Truffle)
 - Create and Mint Interactive NFTs on blockchain using MetaMask (mini website in [site](./site))
 
+## Disclaimer
+
+This project is mostly here to have a quick playground  for InteractiveNFTS. Not all the functionnalities are shown ([see the Sandbox readme for an in-deep understanding of how they work](https://github.com/BeyondNFT/sandbox/blob/main/README.md))
+
 ## Contracts
 
 [See readme in ./truffle](./truffle/README.md)
