@@ -14,3 +14,9 @@ This is the "starter" project for you to be able to:
 ## Site
 
 [See readme in ./site](./site/README.md)
+
+### List page
+![List page](./screenshots/list.png)
+
+### Create page
+![Create page](./screenshots/create.png)
